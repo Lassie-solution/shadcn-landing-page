@@ -20,7 +20,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Sponsors />
+      {/* <Sponsors />
       <About />
       <HowItWorks />
       <Features />
@@ -31,7 +31,7 @@ function App() {
       <Pricing />
       <Newsletter />
       <FAQ />
-      <Footer />
+      <Footer /> */}
       <ScrollToTop />
     </>
   );
